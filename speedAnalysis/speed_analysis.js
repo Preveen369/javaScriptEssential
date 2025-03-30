@@ -7,15 +7,12 @@ function startTest() {
 
     // Reset results and timer
     document.getElementById("output").innerHTML = "";
-    document.getElementById("userInput").value = ""; // Clear previous input
-    document.getElementById("userInput").readOnly = false; // Enable typing
     startTime = new Date().getTime();
 
     // Change button text and functionality
     var button = document.getElementById("btn");
     button.innerHTML = "End Test";
     button.onclick = endTest;
-    button.disabled = false; // Ensure it is enabled
 }
 
 function endTest() {
@@ -29,7 +26,10 @@ function endTest() {
     var userTypedText = document.getElementById("userInput").value;
 
     // Split the text using regex to count words correctly
-    var typedWords = userTypedText.split(/\s+/).filter(word => word !== "").length;
+    var typedWords = userTypedText.split(/\s+/).filter(function (word) {
+        return word !== "";
+    }).length;
+
 
     var wpm = 0; // Default value
 
@@ -48,5 +48,4 @@ function endTest() {
     var button = document.getElementById("btn");
     button.innerHTML = "Start Test";
     button.onclick = startTest;
-    button.disabled = true; // Disable the button after ending test
 }
