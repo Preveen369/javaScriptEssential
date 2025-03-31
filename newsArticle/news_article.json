@@ -1,0 +1,75 @@
+{
+    "articles": [
+      {
+        "title": "Pre-Placement Talk: Preparing for Success",
+        "description": "This article discusses the importance of pre-placement talks in equipping students with the necessary knowledge and confidence to ace their job placements.",
+        "ways_to_achieve": [
+          "Research about the company and its job roles beforehand.",
+          "Prepare questions to ask during the session for better engagement.",
+          "Take notes on important aspects such as company culture, expectations, and growth opportunities."
+        ],
+        "benefits": [
+          "Better understanding of employer expectations and job roles.",
+          "Increased confidence during interviews and selection processes.",
+          "Improved chances of securing a desirable job placement."
+        ]
+      },
+      {
+        "title": "Exploring the World Through Travel Videos",
+        "description": "Creating travel videos is an engaging way to document and share experiences from different parts of the world while inspiring others to explore new destinations.",
+        "ways_to_achieve": [
+          "Plan your trips with a storyboard to capture meaningful footage.",
+          "Use high-quality equipment or smartphones for better visuals.",
+          "Edit videos with engaging transitions, music, and captions."
+        ],
+        "benefits": [
+          "Enhanced storytelling and video editing skills.",
+          "Opportunity to build a personal brand or online presence.",
+          "Memorable documentation of travel experiences."
+        ]
+      },
+      {
+        "title": "Learning Sinhala: A Step Towards Multilingual Proficiency",
+        "description": "Mastering Sinhala opens up opportunities for communication and career growth, especially for those looking to work in the southern region of Sri Lanka.",
+        "ways_to_achieve": [
+          "Practice speaking daily with native speakers or language apps.",
+          "Engage in reading and listening exercises to improve comprehension.",
+          "Use flashcards and language games to memorize vocabulary effectively."
+        ],
+        "benefits": [
+          "Improved communication skills in a new linguistic environment.",
+          "Enhanced cultural understanding and professional opportunities.",
+          "Boosted cognitive abilities and problem-solving skills."
+        ]
+      },
+      {
+        "title": "Advancing Career Prospects with Hindi Proficiency",
+        "description": "Learning Hindi enhances professional and personal interactions, particularly for those aiming to work in Northern India.",
+        "ways_to_achieve": [
+          "Engage in daily conversations to build fluency.",
+          "Read Hindi literature and watch movies to improve language exposure.",
+          "Practice writing and grammar exercises for better articulation."
+        ],
+        "benefits": [
+          "Stronger communication skills for career growth in India.",
+          "Greater appreciation of Indian culture and traditions.",
+          "Increased opportunities in various job sectors requiring Hindi proficiency."
+        ]
+      },
+      {
+        "title": "Facial Emotion Recognition and Iris Intoxication Detection: A Tech Innovation",
+        "description": "This research project explores the use of Transformers with masked learning to enhance emotion recognition and intoxication detection through iris analysis.",
+        "ways_to_achieve": [
+          "Develop a robust dataset for training AI models.",
+          "Use deep learning frameworks like TensorFlow and PyTorch.",
+          "Optimize the model through extensive testing and fine-tuning."
+        ],
+        "benefits": [
+          "Enhanced accuracy in emotion recognition.",
+          "Potential applications in security, healthcare, and safety.",
+          "Advancement in AI-driven human behavior analysis."
+        ]
+      }
+    ]
+}
+
