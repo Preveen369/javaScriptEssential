@@ -1,11 +1,11 @@
-# 🎓 JavaScript Essentials – A Collection of Web Applications
+# 🎓 JavaScript Essential – A Collection of Web Applications
 
 ![Platform](https://img.shields.io/badge/Platform-Web-blue.svg)
 ![Tech](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-orange.svg)
 ![Language](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-**JavaScript Essentials** is a collection of web applications developed as part of the IBM JavaScript Essentials course. Each application demonstrates fundamental JavaScript concepts applied to practical use cases, such as task management, data analysis, and interactive games. Built using HTML, CSS, and JavaScript, these projects showcase skills in frontend development and DOM manipulation, with a focus on functionality and user interaction.
+**JavaScript Essential** is a collection of web applications developed as part of the IBM JavaScript Essentials course. Each application demonstrates fundamental JavaScript concepts applied to practical use cases, such as task management, data analysis, and interactive games. Built using HTML, CSS, and JavaScript, these projects showcase skills in frontend development and DOM manipulation, with a focus on functionality and user interaction.
 
 ---
 
@@ -74,7 +74,7 @@
 ## 📂 Project Structure
 
 ```
-javaScriptEssentials/
+javaScriptEssential/
     ├── todoList/                  # Todo list app files
     ├── bookSystem/                # Book management system files
     ├── calculateArea/             # Area calculation app files
