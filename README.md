@@ -139,7 +139,7 @@ git push origin feature-name
 For queries or suggestions:
 
 - 📩 Email: spreveen123@gmail.com  
-- 🌐 LinkedIn: www.linkedin.com/in/preveen-s-17250529b/
+- 🌐 LinkedIn: https://linkedin.com/in/preveen-s
 
 ---
 
